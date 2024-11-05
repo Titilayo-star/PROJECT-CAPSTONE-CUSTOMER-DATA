@@ -38,9 +38,23 @@ This involves the expoloring of the Data to answer some question such as;
 - Customers that have canceled or renewd their subscription
 - popular subscription types
 - Average Subscription duration
+
   
 ### Data Analysis
 
 
 
 ### Data Visualization
+![CAPSTONE PROJECT CUSTOMER DATA EXCEL](https://github.com/user-attachments/assets/fcc7c37e-e5f6-47b1-bf99-1cf97cc0ac12)
+
+![CAPSTONE PROJECT CUSTOMER DATA PIVOT](https://github.com/user-attachments/assets/5a5b4841-48d0-4a26-9de3-db97582d72a2)
+
+![CAPSTONE PROJECT CUSTOMER DATA SQL](https://github.com/user-attachments/assets/70542b31-70aa-48a1-84bb-bdb8503412e4)
+
+![CAPSTONE PROJECT CUSTOMER DATA VISUALS](https://github.com/user-attachments/assets/114db4d3-9102-4e39-b414-42fb958317a0)
+
+
+
+
+
+
