@@ -25,4 +25,22 @@ The primary source of used here is LITA Capstone Dataset_27027859 and this is a 
 - Github for Portofolio Building
 ### Data Cleaning and Preparations
 -----
+Stepts taken for the Data cleaning and Preparation;
+   1. Data Loading and inspection
+   2. Removal of Duplicates
+   3. Dta Formatting
+   4. Identify and document missing values
+   5. checking column quality
+   6. Tranform Data
+### Exploratory Data Analysis
+This involves the expoloring of the Data to answer some question such as;
+-Total number of customers in each region
+- Customers that have canceled or renewd their subscription
+- popular subscription types
+- Average Subscription duration
+  
+### Data Analysis
 
+
+
+### Data Visualization
