@@ -72,6 +72,8 @@ Group by Region
 ---
 ![CAPSTONE PROJECT CUSTOMER DATA VISUALS](https://github.com/user-attachments/assets/2b513f50-3020-4988-9beb-c7c74e957372)
 
+
+
 ### Results/Findings
 ---
 The summaries Results/findings are as follows;
