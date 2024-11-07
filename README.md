@@ -21,7 +21,7 @@ This Project involves analyzing customer data for a subscription service to iden
 
 ### Data Sources
 ----
-The primary source dataset used here is "LITA Capstone Dataset_27027859 XLSX Worksheet (.xlsx)" and this is a source that was provided for by the Incubator Hub Data Analysis Instructors. The Dataset consists of 75,001 customer records with 8 variables, including CustomerID, CustomerNames, Region,Subscription Types and status.
+The primary source dataset used here is "LITA Capstone Dataset_27027859 XLSX Worksheet (.xlsx)" and this is a source that was provided for by the Incubator Hub Data Analysis Instructors. The Dataset consists of 75,001 customer records with 8 variables, including CustomerID, CustomerNames, Region,Subscription Types and status. A duplicates of 41,214 was removed.
 
 ### Tools Used
 ----
@@ -52,10 +52,13 @@ This involves the expoloring of the Data to examine and summarise the data to un
 - Customers that have canceled or renewd their subscription
 - which subscription plan is the most popular?
 - What is the Average Subscription duration?
+![CAPSTONE PROJECT CUSTOMER DATA SQL](https://github.com/user-attachments/assets/70542b31-70aa-48a1-84bb-bdb8503412e4)
 
 ### Data Analysis
 -----
 - Pivot tables were used to analyse subscription patterns and identifying key segments.
+  ![CAPSTONE PROJECT CUSTOMER DATA EXCEL](https://github.com/user-attachments/assets/fcc7c37e-e5f6-47b1-bf99-1cf97cc0ac12)
+ ![CAPSTONE PROJECT CUSTOMER DATA PIVOT](https://github.com/user-attachments/assets/5a5b4841-48d0-4a26-9de3-db97582d72a2)
 - SQL queries were used to validate data and investigate specific trends;
 ```SQL
 SELECT * FROM table1
@@ -65,16 +68,11 @@ Group by Region
 - PowerBI was used to create interactive dashboards and visualize key findings.
   
 ### Data Visualization
-![CAPSTONE PROJECT CUSTOMER DATA EXCEL](https://github.com/user-attachments/assets/fcc7c37e-e5f6-47b1-bf99-1cf97cc0ac12)
-
-![CAPSTONE PROJECT CUSTOMER DATA PIVOT](https://github.com/user-attachments/assets/5a5b4841-48d0-4a26-9de3-db97582d72a2)
-
-![CAPSTONE PROJECT CUSTOMER DATA SQL](https://github.com/user-attachments/assets/70542b31-70aa-48a1-84bb-bdb8503412e4)
-
+---
 ![CAPSTONE PROJECT CUSTOMER DATA VISUALS](https://github.com/user-attachments/assets/2b513f50-3020-4988-9beb-c7c74e957372)
 
-
 ### Results/Findings
+---
 The summaries Results/findings are as follows;
 1. The Basic plan is the most popular of the subscription type, 60% of customers subscribe to this plan, with an average duration of 6months.
 2. Identified segments based on Location and subscription plan
@@ -82,12 +80,12 @@ The summaries Results/findings are as follows;
 4. The number of customers that has canceled their subscription plans has drastically increased, which has affected the revenue growth of the company.
 
 ### Recommendations
+---
 Baseed on the analysis we recommend the following actions;
 - Collaborate with marketing teams to create targeted campaigns based on identified customer segments and develop services tailored to identify customer needs.
 - Focus on expanding and promoting produts in other Regions for wider reach.
 - Develop a customer rention program based on the insight from the analysis
 
+🥳
 
-
-
-
+💻
