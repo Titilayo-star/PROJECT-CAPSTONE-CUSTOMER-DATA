@@ -47,6 +47,7 @@ We performed the forllowing tasks at this stage for the Data cleaning and Prepar
    6. Tranform Data
 
 ### Exploratory Data Analysis
+---
 This involves the expoloring of the Data to examine and summarise the data to understand customer behaviour, prefernces and trends. The following questions were asked;
 - Total number of customers in each region?
 - Customers that have canceled or renewd their subscription
